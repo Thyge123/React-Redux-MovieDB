@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/React-Redux-MovieDB/static/js/main.6d4d1c62.js",
+    "static/media/movie_black2.jpg": "/React-Redux-MovieDB/static/media/movie_black2.ef7e582a41043a6ef1c5.jpg",
+    "index.html": "/React-Redux-MovieDB/index.html",
+    "main.6d4d1c62.js.map": "/React-Redux-MovieDB/static/js/main.6d4d1c62.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6d4d1c62.js"
+  ]
+}
